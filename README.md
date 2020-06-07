@@ -1,7 +1,7 @@
 # OpenCV multiple photos panorama  
 
 * With "img_*" photos:
-![alt text](https://github.com/arielrenostro/opencv-multiple-panorama/blob/master/result_img.png?raw=true)
+<img style="width: 300px; height: 300px;" src="https://github.com/arielrenostro/opencv-multiple-panorama/blob/master/result_img.png?raw=true"></img>
 
 * With "quarto_*" photos:
-![alt text](https://github.com/arielrenostro/opencv-multiple-panorama/blob/master/result_quarto.png?raw=true)
+<img style="width: 300px; height: 300px;" src="https://github.com/arielrenostro/opencv-multiple-panorama/blob/master/result_quarto.png?raw=true"></img>
